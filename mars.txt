@@ -7,8 +7,4 @@ Survivors eating boo berry in desperate attempt to stave off the disease
 Everyone is ghosts now
 Ghoooosts
 
-<<<<<<< HEAD
-More ghosts
-=======
-Too many ghosts
->>>>>>> acc7928856ddd2c89b930abe934af802da0e2623
+Ghosts have no conflict
